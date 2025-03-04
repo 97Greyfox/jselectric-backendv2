@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "crested-studio-429304-f7",
+  "private_key_id": "87b3292decea830b9de463afeb7b780337522490",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvgIBADANBgkqhkiG9w0BAQEFAASCBKgwggSkAgEAAoIBAQD1deBr+R6JpQlQ\n1/xS0sLcF/lB+zR08g5rYTqYCIcCLps5eWvCnKCgbHTvtAOh9UHnAl3S4UZKkt/W\nUCleTmX5ZONVFUK9dDdMyQGXPJvR82N/ypWcadSp+GHyxv87c9eYzKGvjPP1k16F\nFu/VaJL3ayhF1QT0nT0kqmQTXjPHEotfw7hxRAkXeKqHH0Z2LXpA8DZHQPl/eGkg\nnrmIKaFwm8cG1t2UoYpqbm4MdQaMDSczOpbeDq3G4jaaqDuhNu8/viIPYnTMtenp\nIPs/e05cTqJWGhqqkiPfUC+PGS6OGLec63duPqz9+CNFpwnN4sM+hhHdIbTuBwmn\nn/DJdKyvAgMBAAECggEAEnE012f0P2tC8+wGbUKgmWDDvY1eN5soMjEv8dRSMHvH\n9d2Fly2lc+gyMQBZdYWz2eN3oSyD136JitSjBw7k4oQOAIqEZS+iKAbCM9a97lxX\nEXbrHsFk1RBwa4lAC/t8K2LUkxgIDF9yLpW2l1YwFJ7ce8KxiJ93xJV4x2vAgChi\n3NOc6HfUSgm2GJaf+j77K7BxM7Vj1m/V04/TFjfrB7MpRtH/3nj8F+VPF5OEqjHX\nr5teZc2r3CR/eQF9EKSgG5MbaCkwE1Ry5FjlqaQRoJUNZg2XFLq23v9DAv3zSPXd\nFRYtv4hTAy0XjfSMjo+Mx8bfemXuVZT8qEluHCKRIQKBgQD9ATVv4mN3LUnaukfe\n384iC7fcKaU6IXnG8darceExDlQi7pdsfKfjx/9sdZPsmm6BI3FDgN3lYs+nBFIF\nUGIH/QGYz49hrHXaWKOHvBI65SVUpMIXueRGp1wLY2Q+JzVm1MncTRej69RRepAq\ntC0ca4Afuo/fdH3Q3CmYYGK/7QKBgQD4Xc2fENCEghktQ1d6rK2sFdaQYrmCcY9c\nVtUE1J54TmjdLlROVvFoM089pOKLZseE66Z972Iw5qdF5BBwBKFKPV7MdXKRihM7\n0ZfB/Zn8I9ZumNtiRg7Lc/GKlA2eutgv+n8KgfReXGBm822rKA2nRnWo3d6IjfOU\n2vNpzDtziwKBgQDLHphPLfra6EId12Xx+c4dKTlACTM8ezmwTeIhnHjFkJJdxR1O\nnLmRNrTK146d6tIC3XiGUERVb8H0fZR37bP2Y9pPW3vqV7H6TSVkyMn9/I++59Nn\nhvdM/fn4rqABAituVjGFq2LqWGAJ1hM+JY79/RRM5NOy+2wzLT47tk4xdQKBgQCI\nAVYINPz6kwOWdboBw22XPp4wkt9jPyxyNFqSOpxM5SMne6dO/u1TUkWiTBiCndXE\nRAb4D46FmMkgzLLzpJVuQg0XiXkjmajOqQehg24/VKCoD6yTNCoF34f1iv2qXkbk\nfxfyeReIVK21srfrchOH9l2YC2dA//rTGNMSrHQh4QKBgHI0c0Jg567RJa6U5lD5\nGS4gFHqagjHPiBY4D/5/UDdZCyJiW73aHwYGWJ0ciwm15pJtmP+sPqZzPZeZdyHU\nvohGf1GqZUY6zCF2ApZnti3kSyT8SIUfxh8QcpG1jRpVE3isNpz/r4N6ZE+sDHNx\nPXk/dVleEU9Li6EndTGG9I1N\n-----END PRIVATE KEY-----\n",
+  "client_email": "sheettesting@crested-studio-429304-f7.iam.gserviceaccount.com",
+  "client_id": "105786225022625964516",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/sheettesting%40crested-studio-429304-f7.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
